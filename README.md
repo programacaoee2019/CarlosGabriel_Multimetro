@@ -14,4 +14,4 @@ O LabView facilita o desenvolvimento de uma interface gráfica mais amigável e 
 
 ![Multímetro](https://user-images.githubusercontent.com/37642374/59482578-d0486500-8e3f-11e9-9037-ad6ef9c4cd53.PNG)
 
-O uuário poderá utilizar o knob "Seletor de caso" para escolher entre as funcionalidades Voltímetro, Amperímetro e Ohmímetro. O usuário também deverá indicar os valores de resistência interna que serão utilizados pelo multímetro durante as funções Ohmímetro e Amperímetro. Após realizar as medidas necessárias, o usuário poderá encerrar a execução através do botão STOP.
+O usuário poderá utilizar o knob "Seletor de caso" para escolher entre as funcionalidades Voltímetro, Amperímetro e Ohmímetro. O usuário também deverá indicar os valores de resistência interna que serão utilizados pelo multímetro durante as funções Ohmímetro e Amperímetro. Após realizar as medidas necessárias, o usuário poderá encerrar a execução através do botão STOP.
