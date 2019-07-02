@@ -18,4 +18,16 @@ O usuário poderá utilizar o knob "Seletor de caso" para escolher entre as func
 
 # Fluxograma
 O fluxograma abaixo ilustra o funcionamento do programa:
-<img src="https://user-images.githubusercontent.com/37642374/60476853-83dc9200-9c53-11e9-82d6-ac9ae19cace5.png" height="900" width="700">
+<img src="https://user-images.githubusercontent.com/37642374/60514758-86210980-9cb0-11e9-8b2c-3f34da3aa8ec.png" height="900" width="700">
+
+# Diagrama de Classes
+Devido à natureza do programa, não foi necessária a utilização de programação orientada a objeto para o seu desenvolvimento. Assim, não se aplica o desenvolvimento de um diagrama de classes.
+
+# Compilação
+O programa é compilado pelo LabVIEW ao ser executado. Para tanto, basta instalar o LabVIEW 2019 myRIO Toolkit, o LabVIEW 2019 Real-Time Module e seguir o guia da aba de instalação do próprio myRIO, que surge automaticamente quando o aparelho é conectado ao computador.
+
+Link para download do LabVIEW 2019 myRIO Toolkit:
+http://www.ni.com/pt-br/support/downloads/software-products/download.labview-myrio-toolkit.html#305910
+
+Link para download do LabVIEW 2019 Real-Time Module:
+https://www.ni.com/pt-br/support/downloads/software-products/download.labview-real-time-module.html#305486
